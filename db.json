@@ -1,0 +1,20 @@
+{
+  "data": {
+    "feedbackEmailId": 1,
+    "allReportsZipUrl": "http://url/to/reports/report-feedback-1.zip",
+    "allReportsPdfUrl": [
+        {
+          "participantId": 1,
+          "pdfUrl": "http://url/to/reports/report-feedback-1-participant-1.pdf"
+        },
+        {
+          "participantId": 2,
+          "pdfUrl": "http://url/to/reports/report-feedback-1-participant-2.pdf"
+        },
+        {
+          "participantId": 3,
+          "pdfUrl": "http://url/to/reports/report-feedback-1-participant-3.pdf"
+        }
+    ]
+  }
+}
